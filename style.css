@@ -1,0 +1,47 @@
+
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f3f1f1;
+                margin: 0;
+                padding: 0;
+            }
+            .header {
+                background-color: #0d0d0d;
+                color: #fff;
+                text-align: center;
+                padding: 20px;
+            }
+            .quote-section {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding: 20px;
+            }
+            .quote {
+                flex: 1;
+                padding-right: 20px;
+                font-style: italic;
+                font-size: 40px;
+            }
+            
+            .quote-image img {
+                display: center;
+                max-width: 100%;
+                height: 100%;
+                border-radius: 100px;
+                justify-content: center;
+                
+                
+            }
+            .bio {
+                padding: 20px;
+                background-color: black;
+                color: #fff;
+            }
+            footer {
+                background-color: #0b0101;
+                color: #fff;
+                text-align: center;
+                padding: 10px;
+            }
+        
